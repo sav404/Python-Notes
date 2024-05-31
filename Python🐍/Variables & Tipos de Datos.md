@@ -23,11 +23,3 @@ Las listas son colecciones ordenadas y mutables que pueden contener elementos de
 
 Y para trabajar con estas listas, así como con cadenas y rangos de números, utilizaremos los bucles ‘**for**‘, que nos permiten iterar sobre cada elemento de una secuencia de manera eficiente.
 
-Estas son solo algunas de las estructuras de datos con las que trabajaremos por el momento. A medida que avancemos en las próximas clases, exploraremos más tipos de datos y estructuras más complejas, ampliando nuestras herramientas para resolver problemas y construir programas más sofisticados.
-
-![[Pasted image 20231207021432.png]]
-
-![[Pasted image 20231207021514.png]]
-
-![[Pasted image 20231207021659.png]]
-
